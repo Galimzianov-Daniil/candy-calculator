@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Candy-calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Its desktop app, which helps confectioners to save their products data
 
 ## Available Scripts
 
